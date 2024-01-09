@@ -1,4 +1,4 @@
-# Project Name
+# Linear Regression Assingment 
 > Outline a brief description of your project.
 
 
